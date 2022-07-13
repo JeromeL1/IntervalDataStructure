@@ -13,3 +13,7 @@ interface for interval.java
 ## LinkedIntSet.java
 
 linked structure of intervals.
+
+##Credit 
+
+JMUCS, reworded/reduced from project desc for brevity.
