@@ -14,6 +14,6 @@ interface for interval.java
 
 linked structure of intervals.
 
-##Credit 
+## Credit 
 
 JMUCS, reworded/reduced from project desc for brevity.
